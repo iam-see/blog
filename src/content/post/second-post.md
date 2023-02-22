@@ -1,6 +1,6 @@
 ---
 title: "My Second Post"
-publishDate: "12 June 2022"
+publishDate: "2023-02-22"
 description: "Another example post for Astro Cactus, this time written in a plain markdown file"
 tags: ["example", "blog"]
 ---
